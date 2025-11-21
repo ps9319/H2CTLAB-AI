@@ -1,0 +1,31 @@
+# art
+DANSAEKHWA = "dansaekhwa"
+MONET = "monet" # sdxl
+VANGOGH = "vangogh" # finetune 1.5
+POLLOCK = "pollock"
+ORIGAMI = "origami"
+KLIMT = "klimt"
+
+# nature
+AUTUMN = "autumn"
+WINTER = "winter"
+CAMELLIA = "camellia"
+CHERRY = "cherry"
+HYDRAGEA = "hydragea"
+CANOLA = "canola"
+
+# taste
+CONSTELLATION = "constellation"
+SUMUK = "sumuk"
+ENTERTAINMENT = "entertainment" # sdxl
+LANDSCAPE = "landscape" # sdxl
+WAVE = "wave"
+FANTASY = "fantasy" # sdxl
+
+# heritage
+KIMHONGDO = "kimhongdo"
+SINYUNBOK = "sinyunbok" # fintune sdxl
+JASU = "jasu" # sdxl
+BAEKJA = "baekja"
+TRADITIONAL = "traditional"
+JAGE = "jage"
