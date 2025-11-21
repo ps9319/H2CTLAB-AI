@@ -1,0 +1,2 @@
+clip_outline_only.pt filter=lfs diff=lfs merge=lfs -text
+kimhongdo/ filter=lfs diff=lfs merge=lfs -text
